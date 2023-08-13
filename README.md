@@ -3,6 +3,13 @@
 # ***Hosted App***
 [DeployedSite](https://64d907c3aee17330c78eff62--peppy-chimera-b2544c.netlify.app/)
 
+### Technology Used
+- Next.js
+- Framer motion
+- React
+- tailwind css
+
+
 ## ScreenShots
 ![Screenshot (234)](https://github.com/Mrinal-xx-Singha/MrinalsMetaverse/assets/100140781/fd98265f-da24-4c3a-8bdf-2f22a740d4d7)
 ![Screenshot (235)](https://github.com/Mrinal-xx-Singha/MrinalsMetaverse/assets/100140781/05b69817-ed14-4715-b4f3-d898a2003dc1)
@@ -20,5 +27,16 @@ Next.js
 Framer motion
 React
 tailwind css
+## Getting Started
 
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
